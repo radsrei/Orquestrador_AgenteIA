@@ -4,6 +4,12 @@
 ## Tecnologia
 LLM = Gemini
 
-Framework = Langchain
+Framework = LangGraph
+
+Toolkit = Langchain
 
 Linguagem = Python
+
+----------
+
+Ferramenta = Tavily
